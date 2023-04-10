@@ -11,7 +11,7 @@ public class Boar extends Animal implements Herbivore{
 
     @Override
     public String toString() {
-        return "\uD83D\uDC16";
+        return "\uD83D\uDC17";
     }
 
 

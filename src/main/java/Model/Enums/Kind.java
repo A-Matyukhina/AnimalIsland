@@ -128,7 +128,7 @@ public enum Kind {
             return new Deer();
         }
     },
-    BOAR(50, 50, 2, 400, "\uD83D\uDC16") {
+    BOAR(50, 50, 2, 400, "\uD83D\uDC17") {
         public HashMap<Kind, Integer> getRation() {
             HashMap<Kind, Integer> result = new HashMap<>();
             result.put(CATERPILLAR, 90);
